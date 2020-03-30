@@ -1,0 +1,28 @@
+.root {
+    min-width: 275;
+    display: flex;
+    padding: 5;
+}
+.bullet {
+    display: inline-block;
+    margin: 0 2px;
+    transform: 'scale(0.8)',
+}
+.summary {
+    line-height: 1.5;
+    font-size: 10;
+}
+.container {
+    display: flex;
+    margin: '24px';
+    min-width: '320px';
+    max-width: "400px";
+    min-height: "500px";
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-right: 20px;
+    justify-content: left;
+    max-width: 1250px;
+    justify-items: space-evenly;
+    flex-grow: 1;
+}
