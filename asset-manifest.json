@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/virtual_pest/static/css/main.d0ab0c92.chunk.css",
+    "main.js": "/virtual_pest/static/js/main.5bcd1348.chunk.js",
+    "main.js.map": "/virtual_pest/static/js/main.5bcd1348.chunk.js.map",
+    "runtime-main.js": "/virtual_pest/static/js/runtime-main.94095413.js",
+    "runtime-main.js.map": "/virtual_pest/static/js/runtime-main.94095413.js.map",
+    "static/js/2.fda2cec1.chunk.js": "/virtual_pest/static/js/2.fda2cec1.chunk.js",
+    "static/js/2.fda2cec1.chunk.js.map": "/virtual_pest/static/js/2.fda2cec1.chunk.js.map",
+    "index.html": "/virtual_pest/index.html",
+    "precache-manifest.1424f26bcec95f8023c6c226f856693b.js": "/virtual_pest/precache-manifest.1424f26bcec95f8023c6c226f856693b.js",
+    "service-worker.js": "/virtual_pest/service-worker.js",
+    "static/css/main.d0ab0c92.chunk.css.map": "/virtual_pest/static/css/main.d0ab0c92.chunk.css.map",
+    "static/js/2.fda2cec1.chunk.js.LICENSE.txt": "/virtual_pest/static/js/2.fda2cec1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/virtual_pest/static/media/logo.5d5d9eef.svg",
+    "static/media/penguin_dead.png": "/virtual_pest/static/media/penguin_dead.3630001d.png",
+    "static/media/penguin_enraged.png": "/virtual_pest/static/media/penguin_enraged.265db23c.png",
+    "static/media/penguin_happy.png": "/virtual_pest/static/media/penguin_happy.2d5a4e04.png",
+    "static/media/penguin_hungry.png": "/virtual_pest/static/media/penguin_hungry.53d29cc1.png",
+    "static/media/penguin_playful.png": "/virtual_pest/static/media/penguin_playful.f6c2fee9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94095413.js",
+    "static/js/2.fda2cec1.chunk.js",
+    "static/css/main.d0ab0c92.chunk.css",
+    "static/js/main.5bcd1348.chunk.js"
+  ]
+}
